@@ -8,7 +8,7 @@ To make new customer definitions by using the characteristics of individual cust
 
 Segmenting new customer definitions.
 
-Integrate system with new future users. 
+Integrate system with the new future users. 
 
 ------
 
