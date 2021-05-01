@@ -8,7 +8,7 @@ To make new customer definitions by using the characteristics of individual cust
 
 Segmenting new customer definitions.
 
-Integrate system with the new future users. 
+Integrate system with the new future users.  
 
 ------
 
@@ -18,6 +18,14 @@ Integrate system with the new future users.
 - To be able to define new customers according to the levels.
 - Simply segment new customer definitions using the qcut function.
 - When a new customer arrives, classify them according to segments. 
+
+# Project Know-how
+
+- See how any person who does not know the ds, ml technique does segmentation 
+
+- Dynamic label and create a bin 
+
+- To determine the potential customer potential even though we do not have any data. (classify )
 
 ## Dataset Information
 
