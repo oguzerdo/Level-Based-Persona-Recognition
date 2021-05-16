@@ -1,6 +1,6 @@
-![image-20210425193520398](images/image-20210425193520398.png)
-
 # Level Based Persona
+
+![image-20210516204926891](images/image-20210516204926891.png)
 
 ## Business Problem & Purpose
 
