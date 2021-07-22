@@ -19,13 +19,6 @@ Integrate system with the new future users.
 - Simply segment new customer definitions using the qcut function.
 - When a new customer arrives, classify them according to segments. 
 
-# Project Know-how
-
-- See how any person who does not know the ds, ml technique does segmentation 
-
-- Dynamic label and create a bin 
-
-- To determine the potential customer potential even though we do not have any data. (classify )
 
 ## Dataset Information
 
